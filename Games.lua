@@ -13,4 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/
 elseif placeId == 3101667897 then
 --LegendsOfSpeed
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/LegendsOfSpeed.lua"))()
+elseif placeId == 3956818381 then
+--NinjaLegends
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/NinjaLegends.lua"))()
 end
