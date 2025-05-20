@@ -7,4 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/
 elseif placeId == 10260193230 then
 --MemeSea
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/MemeSea.lua"))()
+elseif placeId == 537413528 then
+--BuildABoatForTreasure
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/Build-A-Boat-For-Treasure.lua"))()
 end
