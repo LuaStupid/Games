@@ -10,4 +10,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/
 elseif placeId == 537413528 then
 --BuildABoatForTreasure
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/Build-A-Boat-For-Treasure.lua"))()
+elseif placeId == 3101667897 then
+--LegendsOfSpeed
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/LegendsOfSpeed.lua"))()
 end
