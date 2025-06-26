@@ -1,7 +1,7 @@
 local placeId = game. PlaceId
 if placeId == 2753915549 or placeId == 4442272183 or placeId == 7449423635 then
 --Blox Fruits
-loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/49a8dbce91d625ff"))()
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/99ab6a1ec1b35dce"))()
 elseif placeId == 10260193230 then
 --MemeSea
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaStupid/Games/main/MemeSea.lua"))()
